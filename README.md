@@ -40,6 +40,7 @@
 
 ### Books
 
+* Jeff Erickson - [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * Steven Skiena – [The Algorithm Design Manual](http://www.algorist.com/)
 * Udi Manber – [Introduction to Algorithms: A Creative Approach](https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372)
 * Cormen, Leiserson, Rivest, Stein – [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
@@ -71,6 +72,7 @@
 * [CodeSignal](https://codesignal.com)
 * [CodeKata](http://codekata.com/)
 * [Firecode](https://www.firecode.io/)
+* [CoderPad](https://coderpad.io/)
 
 ### Guides
 
@@ -86,6 +88,7 @@
 * [Hard interview questions that have a short recursive solution](https://www.quora.com/What-are-some-of-the-hardest-programming-questions-asked-during-an-interview-from-Google-Facebook-Microsoft-Amazon-Quora-Linkedin-Apple-Yahoo-etc-that-can-be-coded-in-a-few-lines-with-a-recursive-solution)
 * [Grow Your Technical Skills with Google](https://techdevguide.withgoogle.com/)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+* [Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
 
 ## Guides
 
@@ -233,6 +236,7 @@
 * [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns)
 * [The Insider's Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
 * Book: [Elements of Programming Interviews in Python](http://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
+* [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
 
 
 ### React
