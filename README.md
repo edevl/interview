@@ -152,12 +152,12 @@
 ### Mock interviews
 
 * [interviewing.io](https://interviewing.io/)
+* [mockinterview.app](https://mockinterview.app)
 * [Pramp](https://www.pramp.com/) *"Practice coding interviews for free"*
 * [Refdash](https://refdash.com/)
 * [Gainlo](http://www.gainlo.co/)
 * [Candidacy.io](https://www.candidacy.io/)
 * [Skilled](https://www.skilledinc.com/)
-* [Gainlo](http://www.gainlo.co/#!/)
 
 ### Q&A
 * [How to prepare for my Google/Facebook interview if I have 6 months left?](http://www.quora.com/Career-Advice/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google)
@@ -201,10 +201,12 @@
 
 * Shailendra Chauhan – [ASP.NET MVC Interview Questions & Answers](https://www.codeproject.com/Articles/556995/ASP-NET-MVC-interview-questions-with-answers)
 * [Top 10 ASP.NET MVC Interview Questions](http://www.codeproject.com/Articles/653746/Top-ASP-NET-MVC-Interview-Questions)
+* [ASP.NET Interview Questions](https://www.interviewbit.com/asp-net-interview-questions/)
 
 ### C#
 
 * [aalhour/c-sharp-algorithms](https://github.com/aalhour/c-sharp-algorithms)
+* [C# Interview Questions](https://www.interviewbit.com/c-sharp-interview-questions/)
 
 ### Go
 
@@ -224,11 +226,13 @@
 
 * [Node.js Best Practices and Tips](https://www.toptal.com/nodejs/tips-and-practices)
 * [Node.js Interview - Guide](https://elemefe.github.io/node-interview/#/sections/en-us/?id=guide)
+* [Node.js Interview Questions](https://www.interviewbit.com/node-js-interview-questions/)
 
 ### PHP
 
 * [PHP The Right Way](http://www.phptherightway.com)
 * [PHP Best Practices](https://phpbestpractices.org/)
+* [PHP Interview Questions](https://www.interviewbit.com/php-interview-questions/)
 
 ### Python
 
@@ -281,6 +285,7 @@
 * UCB CS162 Operating Systems [[class](https://cs162.eecs.berkeley.edu/)] [[videos](https://www.youtube.com/playlist?list=PL89180A0A94A9BCBF)]
 * [The Eudyptula Challenge](http://eudyptula-challenge.org/)
 * [What is the difference between a process and a thread?](http://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
+* [OS Interview Questions](https://www.interviewbit.com/operating-system-interview-questions/)
 
 ### System design
 
